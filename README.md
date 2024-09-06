@@ -21,3 +21,9 @@ Requirements
 
     Python 3.x
     Turtle graphics module (usually included with standard Python installations)
+    
+How to Play
+
+    Use the arrow keys to control the direction of the snake.
+    Eat the red food to grow the snake and increase your score.
+    Avoid colliding with the walls or the snake's own body.
